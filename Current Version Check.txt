@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.1.0.0</version>
+    <url>https://bit.ly/3dv9i38</url>
+    <changelog>https://raw.githubusercontent.com/s104425108/AutodeskFixer/main/Version%20History.txt</changelog>
+    <mandatory>false</mandatory>
+</item>
