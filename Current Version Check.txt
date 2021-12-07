@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.1.0.0</version>
-    <url>https://doc-10-08-docs.googleusercontent.com/docs/securesc/h8j1cd8mhdd2jvddr09bp5960rrk18v3/gsdh9k9p044qoi1jd1jpjso54nl4rh0n/1638884250000/13799479792208627147/13799479792208627147/1TbtLRxUcWaR2rjEOZZMHggsvT6-cfYUy?e=download&authuser=2&nonce=36tj21n66avg8&user=13799479792208627147&hash=tnpi8q51vbp9vbg4p19b1i3r33mtesbd</url>
+    <url>https://bit.ly/3Irc47Y</url>
     <changelog>https://raw.githubusercontent.com/s104425108/AutodeskFixer/main/Version%20History.txt</changelog>
     <mandatory>false</mandatory>
 </item>
