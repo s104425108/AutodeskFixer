@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.1.0.0</version>
-    <url>https://bit.ly/3Irc47Y</url>
+    <url>https://github.com/s104425108/AutodeskFixer/releases/download/v1.1/AutodeskFixer.1.1.zip</url>
     <changelog>https://raw.githubusercontent.com/s104425108/AutodeskFixer/main/Version%20History.txt</changelog>
     <mandatory>false</mandatory>
 </item>
